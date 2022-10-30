@@ -26,9 +26,9 @@ Gli argomenti sono principalmente divisi in tre parti, ognuno con relativi eserc
 Per accedere ai contenuti delle varie parti cliccare nei link sottostanti
 
 <ol>
-    <li>  Prima </a> </li> <br>
-    <li>  Seconda </a> </li> <br>
-    <li>  Terza </a> </li> <br> 
+    <li>  Prima  </li> <br>
+    <li>  Seconda  </li> <br>
+    <li>  Terza </li> <br> 
 </ol>
 <br><br>
 Si augura un buono studio a tutti!!!
