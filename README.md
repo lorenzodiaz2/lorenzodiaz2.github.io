@@ -1,5 +1,3 @@
-# lorenzodiaz2.github.io
-
 <!-- saved from url=(0076)file:///C:/Users/utente/OneDrive/Desktop/Nuovo%20Documento%20di%20testo.html -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Dispense Chimica</title>
